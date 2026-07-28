@@ -21,7 +21,11 @@ body {
     margin-top: 5vh;
 }
 
-.carousel {
+#s3{
+    padding: 6vw;
+}
+
+.carousel, .accordion {
     width: 800px;
 }
 
@@ -33,7 +37,7 @@ body {
         margin-top: 0;
     }
 
-    .carousel {
+    .carousel, .accordion {
         width: 100vw;
     }
 }
